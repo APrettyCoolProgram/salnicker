@@ -1,7 +1,6 @@
 D:\Development\GitHub\APrettyCoolProgram\Salnicker\src\bin\Debug\net7.0\Salnicker.deps.json
 D:\Development\GitHub\APrettyCoolProgram\Salnicker\src\bin\Debug\net7.0\Salnicker.dll
 D:\Development\GitHub\APrettyCoolProgram\Salnicker\src\bin\Debug\net7.0\Salnicker.pdb
-D:\Development\GitHub\APrettyCoolProgram\Salnicker\src\obj\Debug\net7.0\Salnicker.csproj.AssemblyReference.cache
 D:\Development\GitHub\APrettyCoolProgram\Salnicker\src\obj\Debug\net7.0\Salnicker.GeneratedMSBuildEditorConfig.editorconfig
 D:\Development\GitHub\APrettyCoolProgram\Salnicker\src\obj\Debug\net7.0\Salnicker.AssemblyInfoInputs.cache
 D:\Development\GitHub\APrettyCoolProgram\Salnicker\src\obj\Debug\net7.0\Salnicker.AssemblyInfo.cs
