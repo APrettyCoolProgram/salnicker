@@ -1,0 +1,31 @@
+{
+  "AppVer": "0.2.0",
+  "VerboseLog": false,
+  "RepoName": "Salnicker",
+  "RepoURL": "https://github.com/APrettyCoolProgram/Salnicker",
+  "DotGitPath": "../",
+  "TempPath": "./temp/",
+  "ForceCleanup": true,
+  "Months": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ],
+  "ChangelogIncludeName": true,
+  "ChangelogRawPath": "./changelog/",
+  "ChangelogGitCmd": "git log --pretty=fuller",
+  "ChangelogStartTag": "[",
+  "ChangelogEndTag": "]",
+  "ChangelogKeepHistory": false,
+  "ChangelogRepoPath": "../",
+  "ReleaseNoteExportLocation": "./releasenotes/"
+}
