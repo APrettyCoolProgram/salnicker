@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.6.33829.357
+VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salnicker", "Salnicker.csproj", "{36E2D2CA-54CF-4EC4-95A8-2BEBF3363CFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salnicker", "Salnicker.csproj", "{6400B009-AA66-4945-B364-64046A269BBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{36E2D2CA-54CF-4EC4-95A8-2BEBF3363CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36E2D2CA-54CF-4EC4-95A8-2BEBF3363CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36E2D2CA-54CF-4EC4-95A8-2BEBF3363CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36E2D2CA-54CF-4EC4-95A8-2BEBF3363CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6400B009-AA66-4945-B364-64046A269BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6400B009-AA66-4945-B364-64046A269BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6400B009-AA66-4945-B364-64046A269BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6400B009-AA66-4945-B364-64046A269BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0661BF64-431D-49FF-A4CF-9EF91B419D7D}
+		SolutionGuid = {D18B6F28-84A2-43DC-A1E2-DE5627A6F4FB}
 	EndGlobalSection
 EndGlobal

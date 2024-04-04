@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DAmQH5nPaZENiPpSROaH0Zgo7/M4+TKJ2aAkwEbsq5zCyVAu287DBj0qmweX4y92sromhk1H2cQVtqnJe2DDlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cbanw\\GitHub\\A Pretty Cool Program\\Salnicker\\src\\Salnicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Downloads\Salnicker\bin\Debug\net8.0\Salnicker.exe
+D:\Downloads\Salnicker\bin\Debug\net8.0\Salnicker.deps.json
+D:\Downloads\Salnicker\bin\Debug\net8.0\Salnicker.runtimeconfig.json
+D:\Downloads\Salnicker\bin\Debug\net8.0\Salnicker.dll
+D:\Downloads\Salnicker\bin\Debug\net8.0\Salnicker.pdb
+D:\Downloads\Salnicker\obj\Debug\net8.0\Salnicker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Salnicker\obj\Debug\net8.0\Salnicker.AssemblyInfoInputs.cache
+D:\Downloads\Salnicker\obj\Debug\net8.0\Salnicker.AssemblyInfo.cs
+D:\Downloads\Salnicker\obj\Debug\net8.0\Salnicker.csproj.CoreCompileInputs.cache
+D:\Downloads\Salnicker\obj\Debug\net8.0\Salnicker.dll
+D:\Downloads\Salnicker\obj\Debug\net8.0\refint\Salnicker.dll
+D:\Downloads\Salnicker\obj\Debug\net8.0\Salnicker.pdb
+D:\Downloads\Salnicker\obj\Debug\net8.0\Salnicker.genruntimeconfig.cache
+D:\Downloads\Salnicker\obj\Debug\net8.0\ref\Salnicker.dll

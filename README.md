@@ -1,4 +1,4 @@
-<!-- Last updated: 240328 -->
+<!-- Last updated: 240404 -->
 
 <div align="center">
 
@@ -8,4 +8,4 @@
 
 # Salnicker
 
-A systems library.
+A utility to convert a file of SHA hashes created by 7-zip into individual files.

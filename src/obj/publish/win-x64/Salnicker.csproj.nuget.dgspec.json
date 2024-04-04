@@ -11,7 +11,7 @@
         "projectName": "Salnicker",
         "projectPath": "C:\\Users\\cbanw\\GitHub\\A Pretty Cool Program\\Salnicker\\src\\Salnicker.csproj",
         "packagesPath": "C:\\Users\\cbanw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbanw\\GitHub\\A Pretty Cool Program\\Salnicker\\src\\obj\\",
+        "outputPath": "C:\\Users\\cbanw\\GitHub\\A Pretty Cool Program\\Salnicker\\src\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,6 +74,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
