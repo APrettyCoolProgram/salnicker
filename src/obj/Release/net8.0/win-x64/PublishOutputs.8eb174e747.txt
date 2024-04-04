@@ -1,0 +1,1 @@
+C:\Users\cbanw\GitHub\A Pretty Cool Program\Salnicker\src\bin\Release\net8.0\publish\win-x64\Salnicker.exe
