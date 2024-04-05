@@ -12,7 +12,7 @@
 
 A utility to convert a file of SHA hashes created by 7-zip into individual files.
 
-# Usage
+## Usage
 
 1. Download the latest release
 2. Extract `Salnicker-x.y.z.zip`
@@ -20,3 +20,7 @@ A utility to convert a file of SHA hashes created by 7-zip into individual files
 4. Type `Salnicker %filename%`
 
 For example: `Salnicker FileOfHashes.sha256`
+
+## Known issues
+
+Version 0.9.0 is really bare bones, and won't work if any of the entries in the sha256 file have directories.
