@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Salnicker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.9.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.9.0+85c60658d006b7a42e4d5ca53bf6cf9bbaccad24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.9.0+5bc138ee104b7e11ee41a992ed6e307e3b215b77")]
 [assembly: System.Reflection.AssemblyProductAttribute("Salnicker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Salnicker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.9.0.0")]

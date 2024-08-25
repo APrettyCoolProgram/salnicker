@@ -1,12 +1,11 @@
-﻿// =============================== Version 0.9.0 ===============================
+﻿// =============================== Version 0.9.1 ===============================
 // Salnicker: Convers a file of SHA hashes into individual files.
 // https://github.com/APrettyCoolProgram/Salnicker
 // Copyright (c) A Pretty Cool Program. All rights reserved.
 // Licensed under the Apache 2.0 license.
-//
 // =============================================================================
 
-// 240404.1736
+// 240824.2023
 
 internal static class Program
 {
@@ -14,7 +13,7 @@ internal static class Program
     /// <param name="args">The passed arguments.</param>
     public static void Main(string[] args)
     {
-        Dictionary<string, string> hashes = new Dictionary<string, string>();
+        Dictionary<string, string> hashes = [];
 
         if (args.Length == 1)
         {
@@ -37,7 +36,7 @@ internal static class Program
             foreach (var hash in hashes)
             {
 
-                File.WriteAllText($"{hash.Value}.sha256", $"{hash.Key} {hash.Value}");
+                File.WriteAllText($"{hash.Value.Trim()}.sha256", $"{hash.Key} {hash.Value}");
             }
         }
     }
