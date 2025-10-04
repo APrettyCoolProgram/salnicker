@@ -8,7 +8,7 @@
 
 </div>
 
-> Salnicker has been depreciated, and most of the functionality/code has been moved to [Woolpack](https://github.com/APrettyCoolProgram/wollpack).
+> Salnicker has been depreciated, and most of the functionality/code has been moved to [Woolpack](https://github.com/APrettyCoolProgram/woolpack).
 
 
 # Salnicker
