@@ -1,4 +1,4 @@
-<!-- Last updated: 240404 -->
+<!-- Last updated: 251004 -->
 
 <div align="center">
 
@@ -7,6 +7,9 @@
  ![Version](https://img.shields.io/badge/VERSION-0.9.0-lightgreen?style=for-the-badge)
 
 </div>
+
+> Salnicker has been depreciated, and most of the functionality/code has been moved to [Woolpack](https://github.com/APrettyCoolProgram/wollpack).
+
 
 # Salnicker
 

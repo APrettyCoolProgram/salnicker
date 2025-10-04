@@ -11,3 +11,16 @@ C:\Users\cbanw\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win
 C:\Users\cbanw\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\refint\Salnicker.dll
 C:\Users\cbanw\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.genruntimeconfig.cache
 C:\Users\cbanw\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\ref\Salnicker.dll
+V:\GitHub\A Pretty Cool Program\Salnicker\src\bin\Release\net8.0\win-x64\Salnicker.exe
+V:\GitHub\A Pretty Cool Program\Salnicker\src\bin\Release\net8.0\win-x64\Salnicker.deps.json
+V:\GitHub\A Pretty Cool Program\Salnicker\src\bin\Release\net8.0\win-x64\Salnicker.runtimeconfig.json
+V:\GitHub\A Pretty Cool Program\Salnicker\src\bin\Release\net8.0\win-x64\Salnicker.dll
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.GeneratedMSBuildEditorConfig.editorconfig
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.AssemblyInfoInputs.cache
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.AssemblyInfo.cs
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.csproj.CoreCompileInputs.cache
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.sourcelink.json
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.dll
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\refint\Salnicker.dll
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\Salnicker.genruntimeconfig.cache
+V:\GitHub\A Pretty Cool Program\Salnicker\src\obj\Release\net8.0\win-x64\ref\Salnicker.dll
